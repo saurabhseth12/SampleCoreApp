@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\saura\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\saura\\.nuget\\packages"
+    ]
+  }
+}
